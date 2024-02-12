@@ -48,4 +48,8 @@ Tools
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/DarknessRdg/DarknessRdg/pull/2) in [DarknessRdg/DarknessRdg](https://github.com/DarknessRdg/DarknessRdg)
+2. 💪 Opened PR [#2](https://github.com/DarknessRdg/DarknessRdg/pull/2) in [DarknessRdg/DarknessRdg](https://github.com/DarknessRdg/DarknessRdg)
+3. 🎉 Merged PR [#1](https://github.com/DarknessRdg/DarknessRdg/pull/1) in [DarknessRdg/DarknessRdg](https://github.com/DarknessRdg/DarknessRdg)
+4. 💪 Opened PR [#1](https://github.com/DarknessRdg/DarknessRdg/pull/1) in [DarknessRdg/DarknessRdg](https://github.com/DarknessRdg/DarknessRdg)
 <!--END_SECTION:activity-->
